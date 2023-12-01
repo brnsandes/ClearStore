@@ -46,6 +46,13 @@ nav ul{
     align-items: center;
 }
 
+.header-bottom-side-left a {
+    color: #fff;
+    margin-right: 1.5rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 .nav-icon-container{
     display:flex;
     align-items: center;
